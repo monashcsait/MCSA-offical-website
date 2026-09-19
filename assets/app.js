@@ -100,7 +100,7 @@
       .map(([value, name]) => `<option value="${value}" ${value === lang ? 'selected' : ''}>${name}</option>`).join('');
     const brand = image(data.settings.logo, 'MCSA') + `
       <span>
-        <strong>MCSA</strong>
+        <b>Monash Chinese Student Association</n>
         <small>${ui('蒙纳士中国学生会', 'Monash Chinese Students Association', '蒙納士中國學生會')}</small>
       </span>`;
 
