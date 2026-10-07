@@ -81,6 +81,8 @@
   // Department navigation opens internal pages; recruitment URLs belong inside them.
   const departmentRoute = department => 'department-' + encodeURIComponent(department.id) + '.html';
 
+  const departmentDirectoryRoute = () => 'recruitment.html';
+
   function nav() {
     const primaryLinks = ['about', 'latest-events', 'campus-info', 'past-review']
       .map(key => a(route(key), esc(navLabel(key)), page === key ? 'active' : ''))
@@ -88,10 +90,6 @@
     const secondaryLinks = ['presidents', 'discounts', 'sponsors']
       .map(key => a(route(key), esc(navLabel(key)), page === key ? 'active' : ''))
       .join('');
-    const departmentLinks = data.departments.filter(department => department.published !== false).map(department => {
-      const name = esc(t(department.name));
-      return a(departmentRoute(department), name);
-    }).join('');
     const languageOptions = [
         ['zh', '简体中文'],
         ['en', 'English'],
@@ -113,10 +111,7 @@
           </button>
           <nav id="navigation" aria-label="${ui('主导航', 'Main navigation', '主導航')}">
             ${primaryLinks}
-            <details class="nav-dropdown">
-              <summary>${ui('部门招新', 'Recruitment', '部門招新')}</summary>
-              <div><div class="department-nav">${departmentLinks}</div></div>
-            </details>
+            ${a(departmentDirectoryRoute(), ui('部门招新', 'Recruitment', '部門招新'), page === 'recruitment' || page.startsWith('department-') ? 'active' : '')}
             ${secondaryLinks}
           </nav>
           <label class="language-control">
@@ -195,7 +190,7 @@
       about: () => `<section class="section" id="about">${heading(label('about'))}<div class="prose">${paragraphs(data.pages.about.paragraphs)}</div>${postGridOptional('about')}</section>`,
       events: () => `<section class="section" id="events">${linkedHeading(label('latest-events'),'latest-events.html')}${postGrid('latest-events',3)}</section>`,
       presidents: carousel,
-      departments: () => `<section class="section" id="departments">${heading(ui('部门介绍','Departments','部門介紹'),paragraphs([data.settings.departmentHint]))}${departments()}</section>`
+      departments: () => `<section class="section" id="departments">${linkedHeading(ui('部门介绍','Departments','部門介紹'),departmentDirectoryRoute(),paragraphs([data.settings.departmentHint]))}${departments()}</section>`
     };
     return data.homeSections.filter(section => section.visible)
       .map(section => sections[section.id]?.() || '').join('') + postGridOptional('home');

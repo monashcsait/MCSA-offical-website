@@ -720,8 +720,10 @@ textarea {
   bottom: 26px;
   right: 25px;
   z-index: 45;
-  width: 43px;
-  height: 43px;
+  width: 44px;
+  height: 44px;
+  text-decoration: none;
+  cursor: pointer;
   font-size: 22px
 }
 
@@ -1931,3 +1933,8 @@ a.department-choice { text-decoration: none; }
 .secretariat-source { margin:24px 0; }.secretariat-source summary { cursor:pointer;padding:14px;border:1px solid var(--line);border-radius:10px; }.secretariat-source .article-photo { max-width:600px; }
 .secretariat-article .article-subsection h4 { margin-top:28px;color:var(--deep);font-size:1.15rem; }
 @media(prefers-reduced-motion:no-preference) { .secretariat-jumps a { transition:background .2s ease; }.secretariat-jumps a:hover { background:#e4f0ff; } }
+
+/* Keep the shared back-to-top control accessible on static and rendered pages. */
+#back-top:focus-visible { outline: 3px solid var(--deep); outline-offset: 4px; }
+#back-top { bottom: max(26px, env(safe-area-inset-bottom)); right: max(25px, env(safe-area-inset-right)); }
+@media (max-width: 700px) { #back-top { bottom: max(18px, env(safe-area-inset-bottom)); right: max(16px, env(safe-area-inset-right)); } }
