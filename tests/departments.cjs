@@ -30,7 +30,8 @@ for (const id of ['organisation','publicity','marketing','secretariat','alumni',
  assert.ok(page.includes(`data-page="department-${id}"`));
  assert.doesNotMatch(page,/http-equiv="refresh"/);
 }
-assert.ok(!app.includes("linkedHeading(ui('部门介绍'"));
+assert.ok(app.includes("linkedHeading(ui('部门介绍','Departments','部門介紹'),departmentDirectoryRoute()"));
+assert.ok(app.includes("a(departmentDirectoryRoute(), ui('部门招新'"));
 console.log('Department checks passed: routes, missing/unpublished content, date ordering, escaping, and WeChat URL validation.');
 const organisation = JSON.parse(fs.readFileSync('content/departments/organisation.json','utf8'));
 const organisationHtml = render({...organisation,name:'Organisation Department'},'department-organisation');
