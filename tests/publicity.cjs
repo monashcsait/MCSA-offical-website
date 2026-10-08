@@ -5,11 +5,12 @@ const vm=require('node:vm');
 require('../assets/publicity.js');
 const d=JSON.parse(fs.readFileSync('content/departments/publicity.json'));
 const manifest=JSON.parse(fs.readFileSync('content/departments/publicity-originals.json'));
-assert.equal(manifest.files.length,9);
+assert.equal(manifest.files.length,10);
 for(const item of manifest.files){const b=fs.readFileSync(item.file);assert.equal(b.length,item.bytes);assert.equal(crypto.createHash('sha256').update(b).digest('hex'),item.sha256,item.file);}
 for(const lang of ['zh','en']){
  const html=globalThis.MCSAPublicity.render(d,lang);
- assert.deepEqual([...html.matchAll(/publicity\/(64\d)\.png/g)].map(m=>Number(m[1])),[640,641,642,643,644]);
+ assert.deepEqual([...html.matchAll(/publicity\/(64\d)\.png/g)].map(m=>Number(m[1])),[641,642,643]);
+ assert.match(html,/publicity\/ella-original\.jpg/);
  assert.equal((html.match(/<h1>/g)||[]).length,1);
  assert.doesNotMatch(html,/<script|undefined|secretariat/);
  assert.match(html,/2026/);

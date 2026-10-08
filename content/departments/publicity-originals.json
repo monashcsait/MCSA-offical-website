@@ -1,5 +1,5 @@
 {
-  "description": "Supplied originals and reference screenshots, preserved byte-for-byte. Numbered files 640\u2013644 belong to Publicity, not Secretariat.",
+  "description": "Supplied originals and reference screenshots, preserved byte-for-byte. Numbered files 640–644 belong to Publicity, not Secretariat.",
   "files": [
     {
       "file": "images/departments/publicity/640.png",
@@ -45,6 +45,11 @@
       "file": "images/departments/publicity/application-source.png",
       "sha256": "36aa652b5e0cce749aa0d387d114b3f2ac91542be1074fe533c7785deb150f9b",
       "bytes": 595721
+    },
+    {
+      "file": "images/departments/publicity/ella-original.jpg",
+      "sha256": "dba984cf9111fdc72bbcf5e780e6704b27c97b48d3e09c25f678054a6ec9aa44",
+      "bytes": 4152250
     }
   ]
 }
