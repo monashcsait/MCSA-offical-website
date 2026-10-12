@@ -242,7 +242,7 @@
     if (page === 'recruitment') return recruitment();
     if (page === 'article') {
       const post = data.posts.find(p => p.id === new URLSearchParams(location.search).get('id') && p.published);
-      return post ? `<header class="page-heading"><h1>${esc(t(post.title))}</h1></header><article class="article-detail">${image(post.image,t(post.title),post.crop)}<div class="prose">${paragraphs([post.text])}</div>${post.url?a(post.url,ui('阅读原文', 'Read original', '閱讀原文'),'button'):''}</article>` : `<p class="empty-state">${ui('这篇内容暂未发布。', 'This article is not available.', '這篇內容暫未發佈。')}</p>`;
+      return post ? `<header class="page-heading"><h1>${esc(t(post.title))}</h1>${post.date ? `<p class="article-date">${ui('发布日期', 'Published on', '發佈日期')}：<time datetime="${esc(post.date)}">${esc(post.date)}</time></p>` : ''}</header><article class="article-detail">${image(post.image,t(post.title),post.crop)}<div class="prose">${paragraphs([post.text])}</div>${post.url?a(post.url,ui('阅读原文', 'Read original', '閱讀原文'),'button'):''}</article>` : `<p class="empty-state">${ui('这篇内容暂未发布。', 'This article is not available.', '這篇內容暫未發佈。')}</p>`;
     }
     const pageInfo = data.pages[page];
     if (['disclaimer', 'privacy', 'accessibility', 'feedback', 'privacy-settings'].includes(page)) return policyPage(pageInfo);
