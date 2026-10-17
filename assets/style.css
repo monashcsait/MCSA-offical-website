@@ -1584,6 +1584,12 @@ textarea {
   margin: 0 auto 65px
 }
 
+.article-date {
+  color: var(--muted);
+  font-size: 16px;
+  line-height: 1.6
+}
+
 .article-detail>img {
   max-height: 600px;
   object-fit: contain;
