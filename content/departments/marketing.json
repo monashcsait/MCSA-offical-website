@@ -1,0 +1,230 @@
+{
+  "id": "marketing",
+  "articleLayout": "marketing",
+  "published": true,
+  "name": {
+    "zh": "市场部",
+    "en": "Marketing"
+  },
+  "sourceUrl": "https://mp.weixin.qq.com/s/v7naPjbNuuCI48gSgBi5vw",
+  "recruitmentUrl": "https://mp.weixin.qq.com/s/v7naPjbNuuCI48gSgBi5vw",
+  "status": {
+    "zh": "招新安排及报名状态请以官方微信公众号最新通知为准。",
+    "en": "See the official WeChat account for current recruitment dates and application status."
+  },
+  "about": [
+    {
+      "zh": "为同学争取专属福利，为商家拓展校园市场。市场部连接学生与品牌，将合作机会变成校园生活中的实际收获。",
+      "en": "We connect students with brands, securing student benefits and helping businesses reach the campus community."
+    },
+    {
+      "zh": "从餐饮、娱乐到教育、科技，我们洽谈商家合作、策划线下讲座，并为学联活动争取赞助，让同学接触更多职业与学习资源。",
+      "en": "From dining and entertainment to education and technology, we build partnerships, organise talks and seek event sponsorship, bringing students closer to career and learning resources."
+    },
+    {
+      "zh": "想尝试商务拓展、品牌运营或创意推广？带上热情与行动力，和我们一起创造更多可能。",
+      "en": "Interested in partnerships, brand communication or creative promotion? Bring your enthusiasm and initiative, and build something with us."
+    }
+  ],
+  "leaders": [
+    {
+      "name": {
+        "zh": "王菁仪 Aria",
+        "en": "王菁仪 Aria"
+      },
+      "role": {
+        "zh": "部长",
+        "en": "Head"
+      },
+      "image": "642.webp",
+      "quote": {
+        "zh": "启程的意义不在于终点；而在于每一步都在超越昨天的自己。勇敢迈出第一步的人，先享受世界～欢迎你们加入MCSA市场部大家庭！",
+        "en": "The journey is about growing beyond who you were yesterday with every step. Take that first brave step and enjoy what the world offers. Welcome to the MCSA Marketing family!"
+      }
+    },
+    {
+      "name": {
+        "zh": "杨健睿 Eva",
+        "en": "杨健睿 Eva"
+      },
+      "role": {
+        "zh": "对内副部长",
+        "en": "Deputy Head · Internal Team"
+      },
+      "image": "643.webp",
+      "quote": {
+        "zh": "新的学期，我们对内组的宗旨就是：在文字里找到热爱，在对接中收获成长！在这里，你不用怕从零开始：有人带你写文案、练排版，有人教你做对接、学沟通，不管你是社牛还是社恐，不管你是大佬还是小白，市场部对内组都有你的位置。我们要的不是完美，而是愿意一起玩耍、一起学习的你！新学期，市场部对内组，等你入伙，一起“搞事情”！",
+        "en": "Our aim is to find joy in writing and grow through collaboration. You can start from scratch: teammates will help you write copy, practise layouts, coordinate projects and communicate. Whether outgoing or quiet, experienced or new, there is a place for you. We welcome people who want to learn and have fun together. Join us and make things happen!"
+      }
+    },
+    {
+      "name": {
+        "zh": "肖茗悦 Maggie",
+        "en": "肖茗悦 Maggie"
+      },
+      "role": {
+        "zh": "对外副部长",
+        "en": "Deputy Head · External Team"
+      },
+      "image": "644.webp",
+      "quote": {
+        "zh": "在MCSA市场部这个温暖的大家庭里，你可以收获有实战谈判的历练，也可以交到志同道合的朋友们，更可以发现一个全新的自己～期待同频的你，和我们一起学习成长，玩转市场，共赴热爱！",
+        "en": "In our welcoming team, you can gain practical negotiation experience, meet like-minded friends and discover new sides of yourself. Join us to learn, grow and explore marketing together!"
+      }
+    }
+  ],
+  "historyNote": {
+    "zh": "部长团队 · 根据本次提供的招新资料整理。",
+    "en": "Leadership team featured in the supplied recruitment material."
+  },
+  "groups": [
+    {
+      "name": {
+        "zh": "对外组",
+        "en": "External Team"
+      },
+      "tagline": {
+        "zh": "建立合作，把资源带到同学身边。",
+        "en": "Build partnerships that bring opportunities to students."
+      },
+      "duties": [
+        {
+          "zh": "与餐饮、娱乐、教育、科技等行业商家沟通，洽谈学生专属优惠与折扣。",
+          "en": "Approach businesses in dining, entertainment, education and technology to negotiate student offers."
+        },
+        {
+          "zh": "策划线下讲座，为同学连接职业与学习资源。",
+          "en": "Plan in-person talks that connect students with career and learning resources."
+        },
+        {
+          "zh": "为学联活动争取赞助，并维护长期合作关系。",
+          "en": "Seek sponsorship for MCSA events and maintain lasting partnerships."
+        }
+      ],
+      "requirements": [
+        {
+          "zh": "主动参加推广活动，积极拓展商家资源。",
+          "en": "Take initiative, participate regularly in promotional activities and develop business contacts."
+        },
+        {
+          "zh": "清晰表达合作价值，与商家建立长期关系。",
+          "en": "Communicate partnership value clearly and build long-term relationships."
+        },
+        {
+          "zh": "理解商家需求，提出互利共赢的合作方案。",
+          "en": "Understand business needs and propose mutually beneficial partnerships."
+        },
+        {
+          "zh": "面对拒绝不气馁，持续尝试并优化策略。",
+          "en": "Stay resilient when facing rejection, and keep refining your approach."
+        },
+        {
+          "zh": "与其他部门协作，提高合作执行力。",
+          "en": "Work with other departments to deliver partnerships effectively."
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh": "对内组",
+        "en": "Internal Team"
+      },
+      "tagline": {
+        "zh": "用文案、社交媒体与视觉内容，让福利被看见。",
+        "en": "Make student benefits visible through words, social media and design."
+      },
+      "duties": [
+        {
+          "zh": "撰写推广推文与广告文案，提升学联及合作商家的曝光。",
+          "en": "Write promotional articles and advertising copy for MCSA and its partners."
+        },
+        {
+          "zh": "结合校园生活与热点，策划有趣的营销活动。",
+          "en": "Develop engaging campaigns around campus life and relevant trends."
+        },
+        {
+          "zh": "设计海报、视频等视觉内容，让推广更有吸引力。",
+          "en": "Create posters, videos and other visual content that makes promotions engaging."
+        }
+      ],
+      "requirements": [
+        {
+          "zh": "具备文字表达能力，能撰写吸引人的推文和广告文案。",
+          "en": "Write engaging articles and advertising copy."
+        },
+        {
+          "zh": "善于捕捉热点，思维灵活，能结合校园生活策划内容。",
+          "en": "Spot relevant trends and develop creative content connected to campus life."
+        },
+        {
+          "zh": "了解微信公众号、小红书、Instagram等社交媒体平台。",
+          "en": "Understand platforms such as WeChat, Xiaohongshu and Instagram."
+        },
+        {
+          "zh": "具备基本设计或排版能力是加分项，例如使用Canva、Photoshop。",
+          "en": "Basic design or layout skills, including Canva or Photoshop, are a plus."
+        },
+        {
+          "zh": "关注数据反馈，分析推广效果，持续优化内容策略。",
+          "en": "Use feedback and performance data to improve content strategy."
+        }
+      ]
+    }
+  ],
+  "benefits": [
+    {
+      "name": {
+        "zh": "合作资源",
+        "en": "Business connections"
+      },
+      "text": {
+        "zh": "接触各行业商家，为同学争取专属福利。",
+        "en": "Meet businesses across industries and help secure student benefits."
+      }
+    },
+    {
+      "name": {
+        "zh": "实践成长",
+        "en": "Practical experience"
+      },
+      "text": {
+        "zh": "学习谈判、商务合作与市场推广，培养商业思维。",
+        "en": "Develop negotiation, partnership and promotion skills through practice."
+      }
+    },
+    {
+      "name": {
+        "zh": "拓展人脉",
+        "en": "A wider network"
+      },
+      "text": {
+        "zh": "结识合作商家，与学联核心团队共同推进项目。",
+        "en": "Build connections with businesses and collaborate with the MCSA core team."
+      }
+    },
+    {
+      "name": {
+        "zh": "团队氛围",
+        "en": "A supportive team"
+      },
+      "text": {
+        "zh": "在高效协作中结交朋友，让每一份努力被看见。",
+        "en": "Make friends through collaborative work and have your contributions recognised."
+      }
+    }
+  ],
+  "welcome": [
+    {
+      "zh": "可以没有经验，但要积极主动、有责任心，愿意付诸行动。",
+      "en": "Experience is not essential. Initiative, responsibility and a willingness to act matter."
+    },
+    {
+      "zh": "谈判、设计、营销文案都可以从零开始学习。带上基本的审美、表达能力，以及勇敢尝试的心。",
+      "en": "Negotiation, design and marketing writing can all be learned. Bring an eye for presentation, communication skills and the courage to try."
+    }
+  ],
+  "application": {
+    "zh": "查看官方招新推文，按文中指引添加小助手并发送“市场部”，了解后续面试信息。",
+    "en": "Open the official recruitment post and follow its instructions to add an assistant on WeChat. Send “市场部” to ask about interview information."
+  }
+}
