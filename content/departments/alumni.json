@@ -1,0 +1,207 @@
+{
+  "id": "alumni",
+  "articleLayout": "alumni",
+  "published": true,
+  "name": {
+    "zh": "校友会",
+    "en": "Alumni"
+  },
+  "sourceUrl": "https://mp.weixin.qq.com/s/vpi2NA2jNe4nL020mbcvpA",
+  "recruitmentUrl": "https://mp.weixin.qq.com/s/vpi2NA2jNe4nL020mbcvpA",
+  "status": {
+    "zh": "本页记录2026年招新资料。2月26日至3月15日的报名已结束，后续安排请以官方微信公众号通知为准。",
+    "en": "This page presents the 2026 recruitment material. Applications for 26 February–15 March have closed. See the official WeChat account for future announcements."
+  },
+  "about": [
+    {
+      "zh": "从校园活动的参与者，到连接校友的伙伴，再到落实创意的执行者，成长始于一次新的尝试。",
+      "en": "Growth starts with trying something new: joining campus activities, connecting with alumni and turning ideas into real projects."
+    },
+    {
+      "zh": "在MCSA校友会，你会遇见来自不同专业与行业的前辈。通过活动策划和项目实践，建立长期联系，也让自己的能力逐渐被看见与信任。",
+      "en": "Meet graduates from different disciplines and industries. Through events and practical projects, build lasting connections and earn trust through what you contribute."
+    },
+    {
+      "zh": "这里有行业交流、真实项目，也有一起成长的伙伴。让校园与更广阔的世界，在一次次相遇中连接。",
+      "en": "Find industry conversations, practical projects and friends to grow with. Each encounter brings campus closer to the wider world."
+    }
+  ],
+  "daily": [
+    {
+      "zh": "一起讨论下一场校友活动的主题、流程和分工，把微信群里的头像变成线下见面的朋友。",
+      "en": "Plan the next alumni event together, from its theme to everyone’s responsibilities, and help online acquaintances meet in person."
+    },
+    {
+      "zh": "维护校友社群，传递活动与实用信息，倾听反馈，把信息送到需要的人手中。",
+      "en": "Keep alumni communities active, share events and useful information, and listen to what members need."
+    },
+    {
+      "zh": "采访校友、记录活动、制作推文与视频，在交流中了解行业、工作与真实生活。",
+      "en": "Interview alumni, document events and create articles and videos while learning about work, industries and everyday life."
+    },
+    {
+      "zh": "活动后聚餐庆功，期末一起复习，闲时做饭、桌游和聊天。收获经验，也收获并肩走过大学时光的朋友。",
+      "en": "Celebrate over dinner, study together during finals, and make time for cooking, board games and conversation. Gain experience and friendships through university."
+    }
+  ],
+  "leaders": [
+    {
+      "name": {
+        "zh": "盛一禾 Chloe",
+        "en": "盛一禾 Chloe"
+      },
+      "role": {
+        "zh": "部长",
+        "en": "Head"
+      },
+      "image": "chloe.webp",
+      "quote": {
+        "zh": "好客山东出品 | ENFP | 传媒大三在读\n自我介绍加载中…\n隐藏属性过于丰富，建议线下解锁 🌹\n期待有远见、有好奇心的你加入，和我们一起遇见更多可能❤️",
+        "en": "From welcoming Shandong | ENFP | Third-year media student\nIntroduction loading… There is much more to discover in person.\nBring your curiosity and vision, and explore more possibilities with us."
+      }
+    },
+    {
+      "name": {
+        "zh": "王子威 Keith",
+        "en": "王子威 Keith"
+      },
+      "role": {
+        "zh": "副部长",
+        "en": "Deputy Head"
+      },
+      "image": "keith.png",
+      "quote": {
+        "zh": "于道各努力，千里共同风！\n在人生的道路上，我们都要各自尽我们最大的努力。即使我们相隔千里，但是相同的理想和愿望会让我们前进的道路是一致的。\n虽不同舟，但你我初心未变！",
+        "en": "Each of us gives our best on our own path. Even thousands of miles apart, shared ideals and hopes can carry us in the same direction.\nWe may travel in different boats, but our original purpose remains."
+      }
+    }
+  ],
+  "historyNote": {
+    "zh": "以上职务、年级与寄语摘自所提供的2026年招新资料。",
+    "en": "Roles, year of study and messages above reflect the supplied 2026 recruitment material."
+  },
+  "groups": [
+    {
+      "name": {
+        "zh": "校友活动策划组",
+        "en": "Alumni Events"
+      },
+      "tagline": {
+        "zh": "从一个想法，到一次真正的相遇",
+        "en": "From an idea to a real encounter"
+      },
+      "duties": [
+        {
+          "zh": "参与墨尔本本地校友交流与国内大型校友酒会的筹备和执行。",
+          "en": "Help plan and deliver Melbourne alumni gatherings and larger alumni receptions in China."
+        },
+        {
+          "zh": "讨论主题、设计流程，沟通校友与嘉宾，协调邀请及现场执行。",
+          "en": "Develop themes and schedules, liaise with alumni and guests, and coordinate invitations and delivery."
+        },
+        {
+          "zh": "活动结束后复盘，记录经验，为下一次活动积累方法。",
+          "en": "Review each event and capture lessons for the next one."
+        }
+      ],
+      "requirements": [
+        {
+          "zh": "活动策划、项目执行或团队协作经验，有助于更快上手。",
+          "en": "Experience in event planning, project delivery or teamwork helps you get started."
+        },
+        {
+          "zh": "细致可靠，重视时间管理，愿意主动承担责任并推进事项。",
+          "en": "Be dependable and attentive, manage your time and take ownership of tasks."
+        },
+        {
+          "zh": "愿意参与真实项目，在实践中提升组织与策划能力。",
+          "en": "Be willing to learn organisation and planning through practical projects."
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh": "校友品牌传播组",
+        "en": "Alumni Communications"
+      },
+      "tagline": {
+        "zh": "让有价值的故事，遇见更多人",
+        "en": "Bring worthwhile stories to more people"
+      },
+      "duties": [
+        {
+          "zh": "运营校友社群，传播活动信息，回应需求并维护互动氛围。",
+          "en": "Run alumni communities, share event information, respond to needs and encourage conversation."
+        },
+        {
+          "zh": "策划活动推文与回顾，运营小红书等平台账号。",
+          "en": "Plan event articles and recaps, and maintain accounts on platforms such as Xiaohongshu."
+        },
+        {
+          "zh": "参与视频剪辑、视觉设计、活动记录与「友说远川」等校友品牌栏目。",
+          "en": "Contribute video editing, visual design and event coverage, including alumni series such as “友说远川”."
+        }
+      ],
+      "requirements": [
+        {
+          "zh": "新媒体运营、社群管理或内容创作经验是加分项。",
+          "en": "Experience in social media, community management or content creation is a plus."
+        },
+        {
+          "zh": "对内容表达有基本审美与网感，做事可靠，有回应意识与执行习惯。",
+          "en": "Bring an eye for content, an understanding of online audiences and reliable follow-through."
+        },
+        {
+          "zh": "愿意长期参与团队协作，一起积累校友品牌影响力。",
+          "en": "Commit to ongoing teamwork and developing the alumni community’s voice."
+        }
+      ]
+    }
+  ],
+  "benefits": [
+    {
+      "name": {
+        "zh": "项目经验",
+        "en": "Practical experience"
+      },
+      "text": {
+        "zh": "把活动策划与内容成果放进简历和作品集，用真实经历讲述自己的成长。",
+        "en": "Build projects and content you can discuss in your CV and portfolio."
+      }
+    },
+    {
+      "name": {
+        "zh": "跨行业交流",
+        "en": "Industry perspectives"
+      },
+      "text": {
+        "zh": "与人力资源、互联网、金融、传媒等领域校友交流，了解简历、升学与职业路径。真实经历提供参考，而非标准答案。",
+        "en": "Talk with alumni in HR, technology, finance and media about CVs, further study and careers. Their experience offers perspectives rather than a single right answer."
+      }
+    },
+    {
+      "name": {
+        "zh": "更多实践机会",
+        "en": "More ways to contribute"
+      },
+      "text": {
+        "zh": "招新资料提及国际志愿活动与官方证书机会，具体安排以活动通知为准。",
+        "en": "The recruitment material mentions international volunteering and certificate opportunities. Availability depends on individual events."
+      }
+    },
+    {
+      "name": {
+        "zh": "一起成长的伙伴",
+        "en": "A community to grow with"
+      },
+      "text": {
+        "zh": "从项目协作到聚餐桌游，在日常相处中结识志同道合的朋友。",
+        "en": "Meet like-minded friends through projects, dinners, board games and everyday conversations."
+      }
+    }
+  ],
+  "application": {
+    "zh": "原招新轮次：2026年2月26日至3月15日（墨尔本时间），每人最多报名两个部门。原报名方式为添加「蒙纳士MCSA校友会小助手」，发送“校友会”。面试以交流为主，请提前准备个人简历。新一轮招新请查看官方最新通知。",
+    "en": "Previous round: 26 February–15 March 2026, Melbourne time, with applications to at most two departments per person. Applicants were asked to add the MCSA Alumni WeChat assistant and send “校友会”. Interviews focused on conversation, with a CV prepared in advance. Check the official account for the next round."
+  }
+}
