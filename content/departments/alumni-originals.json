@@ -1,0 +1,57 @@
+[
+  {
+    "source": "640.png",
+    "file": "recruitment-poster.png",
+    "sha256": "25c242413244752152e0044f41b6fb03494f0b9154aee0e90f8c2931b1af8b2c"
+  },
+  {
+    "source": "640-1.png",
+    "file": "networking.png",
+    "sha256": "d115645cf298fa45440173fcd4c2a3fd12cb26fd91f9ca4ada88e832ec14a463"
+  },
+  {
+    "source": "640-2.png",
+    "file": "team-dinner.png",
+    "sha256": "5b463a8cccc917a961061eaf9579d937541380ed49d78a87a20a917501287bc6"
+  },
+  {
+    "source": "640-3.png",
+    "file": "conversation.png",
+    "sha256": "7342b59b73e2d143dba946744792d757ad9a7f2d9ba2bc6d84beef40a64c9d8c"
+  },
+  {
+    "source": "640-4.png",
+    "file": "planning.png",
+    "sha256": "780a380be457093e735cb7deee22d95cda4edf2e86c2d982c428d0a367208927"
+  },
+  {
+    "source": "640-5.png",
+    "file": "keith.png",
+    "sha256": "fad375caf8405567c5b91fd1277eac7d3af203da7cfb200181139f5be0acaaeb"
+  },
+  {
+    "source": "640.webp",
+    "file": "filming.webp",
+    "sha256": "52a1b19a9969a82c901dc4bc0394bd1d27b15f196d7aa128765a12dab3f68627"
+  },
+  {
+    "source": "640-1.webp",
+    "file": "interview.webp",
+    "sha256": "cf141d2dddcedd95c688124b93a46d31e697bfaf90ad27f43e5e19ca1edfd3c2"
+  },
+  {
+    "source": "640-2.webp",
+    "file": "chloe.webp",
+    "sha256": "21c68a6f91218734f648fdf604beb8d7802e08fd78a8be4169cdcc86150a988e"
+  },
+  {
+    "source": "640-3.webp",
+    "file": "team-flag.webp",
+    "sha256": "9d37e19dd5b765cb262f57443c446b8bb83323f25ead6b5454fb50b8d3667484"
+  },
+  {
+    "source": "640-4.webp",
+    "file": "alumni-stories.webp",
+    "sha256": "bffe33b8e1ee12bc2cd2093d25c5748837cc159060c1d60b177685081b4cdd34"
+  }
+]

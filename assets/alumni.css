@@ -1,0 +1,36 @@
+/* Shared article structure with Publicity's warm red, cream and gold palette. */
+.alumni-article { --red:#a63832; --deep:#6e2e24; --wash:#fff4ee; --line:#e7d7cc; --article-gold:#f2d58c; }
+.alumni-article .article-heading { background:radial-gradient(ellipse at top right,#f8dfaa,transparent 55%),linear-gradient(135deg,#fff9ee,#fbeee7); }
+.alumni-article .alumni-motto { color:var(--deep);font-weight:700;text-align:center; }
+.alumni-jumps { display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin:28px 0; }
+.alumni-jumps a { padding:10px 18px;border:1px solid var(--line);border-radius:999px;background:white;color:var(--deep);text-decoration:none;font-weight:700; }
+.alumni-article .article-leader { margin:32px 0; }
+.alumni-article .article-leader header { text-align:center; }
+.alumni-article blockquote { white-space:pre-line; }
+.alumni-article .article-subsection h4 { margin-top:28px;color:var(--deep);font-size:1.15rem; }
+.alumni-article .alumni-tagline { text-align:center;font-weight:700;color:var(--deep); }
+.alumni-source { margin:24px 0; }
+.alumni-source .article-photo { max-width:600px; }
+.alumni-history-note,.alumni-source-note { padding:16px 20px;border-left:3px solid var(--article-gold);background:#fff8e8;font-size:.9rem; }
+.alumni-article .article-original { max-width:100%;height:auto;object-fit:contain; }
+@media(hover:hover) and (prefers-reduced-motion:no-preference) { .alumni-jumps a:hover { background:#fff0df; } }
+
+
+.alumni-article { --deep:#125c62; --wash:#eff8f6; }
+.alumni-article .article-heading { background:radial-gradient(ellipse at top right,#f8dfaa,transparent 60%),linear-gradient(135deg,#eff9f7,#fff9ee); }
+.alumni-gallery { display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px; }
+.alumni-gallery .article-photo { margin:0; }
+.alumni-gallery img { border-radius:16px; }
+.alumni-article .article-leader .article-photo { max-width:480px; }
+.alumni-article .article-subsection { padding-inline:clamp(16px,3vw,32px); }
+.alumni-article #alumni-benefits .article-subsection { text-align:center; border:0; }
+.alumni-article #alumni-benefits .article-subsection p { max-width:42rem; margin:20px auto 0; text-align:center; }
+.alumni-article section { scroll-margin-top:100px; }
+@media(max-width:600px) { .alumni-gallery { grid-template-columns:1fr; } }
+
+.alumni-article { --red:#66509a; --deep:#4d397b; --wash:#f5f0fc; --line:#ded3ed; --article-gold:#e8d59a; }
+.alumni-article .article-heading { background:radial-gradient(ellipse at top right,#e5d6f8,transparent 60%),linear-gradient(135deg,#f4effc,#fff9ee); }
+.alumni-article .article-photo:has(img[src$="alumni-stories.webp"]) { max-width:580px; }
+
+.alumni-article .alumni-top-poster { width:100%; max-width:680px; margin:0 auto 32px; }
+.alumni-top-poster img { display:block; width:100%; height:auto; border-radius:16px; }
